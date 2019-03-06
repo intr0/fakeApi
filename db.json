@@ -1,0 +1,115 @@
+{
+  "users": [
+  {
+    "_id": "5c804492dd5cbdcc8d1851f6",
+    "age": 76,
+    "sex": "female",
+    "name": {
+      "first": "Louisa",
+      "last": "Conway"
+    }
+  },
+  {
+    "_id": "5c804492baa44676c5b92034",
+    "age": 78,
+    "sex": "male",
+    "name": {
+      "first": "Grimes",
+      "last": "Andrews"
+    }
+  },
+  {
+    "_id": "5c804492b9643bb08d049f9c",
+    "age": 35,
+    "sex": "female",
+    "name": {
+      "first": "Ericka",
+      "last": "Mcguire"
+    }
+  },
+  {
+    "_id": "5c804492f71d583e3c611ef6",
+    "age": 21,
+    "sex": "female",
+    "name": {
+      "first": "Pena",
+      "last": "Vaughan"
+    }
+  },
+  {
+    "_id": "5c80449242f23a3ef9e7abb7",
+    "age": 63,
+    "sex": "male",
+    "name": {
+      "first": "Cline",
+      "last": "Beck"
+    }
+  },
+  {
+    "_id": "5c8044921147cc797dc08eb8",
+    "age": 35,
+    "sex": "male",
+    "name": {
+      "first": "Carrie",
+      "last": "Mcbride"
+    }
+  },
+  {
+    "_id": "5c804492651202063f8941d4",
+    "age": 20,
+    "sex": "female",
+    "name": {
+      "first": "Fowler",
+      "last": "Michael"
+    }
+  },
+  {
+    "_id": "5c8044926b903801b101c911",
+    "age": 63,
+    "sex": "male",
+    "name": {
+      "first": "Tammi",
+      "last": "Myers"
+    }
+  },
+  {
+    "_id": "5c804492fd9da121949ecfcd",
+    "age": 34,
+    "sex": "female",
+    "name": {
+      "first": "Haney",
+      "last": "Kemp"
+    }
+  },
+  {
+    "_id": "5c804492e9da16cacf4cbb6c",
+    "age": 52,
+    "sex": "female",
+    "name": {
+      "first": "Hardin",
+      "last": "Hancock"
+    }
+  },
+  {
+    "_id": "5c804492866c7d1ed32174ca",
+    "age": 59,
+    "sex": "male",
+    "name": {
+      "first": "Jeanine",
+      "last": "Ellis"
+    }
+  },
+  {
+    "_id": "5c8044924baf4cd98a166d50",
+    "age": 45,
+    "sex": "male",
+    "name": {
+      "first": "Gloria",
+      "last": "Harper"
+    }
+  }
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
